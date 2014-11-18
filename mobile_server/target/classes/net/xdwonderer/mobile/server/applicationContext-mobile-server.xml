@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+
+    <util:properties id="businessProperties" location="classpath:/net/xdwonderer/business/business.properties"/>
+    <util:properties id="serverProperties" location="classpath:/mobile.properties"/>
+
+    <import resource="classpath:/net/xdwonderer/business/applicationContext-business.xml"></import>
+
+    <bean id="ocrExtractor" class="net.xdwonderer.business.ocr.OcrExtractor"/>
+
+    <bean id="receiptRawDataParser" class="net.xdwonderer.business.parsers.ReceiptRawDataParser"/>
+
+</beans>

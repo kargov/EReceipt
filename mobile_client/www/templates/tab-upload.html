@@ -1,0 +1,15 @@
+<ion-view title="Upload">
+    <ion-content class="has-header padding">
+        <form method="post" enctype="multipart/form-data">
+            <div>
+               <button class="button icon ion-filing" ng-click="openFileDialog()"> Select File</button>
+               <span id="filename">{{ fileName }}</span>
+               <input style="display: none" type="file" id="file"/>
+            </div>
+            </br>
+            <div>
+                <button class="button icon ion-filing" ng-click="submitForm()" type="submit">Do OCR</button>
+            </div>
+        </form>
+    </ion-content>
+</ion-view>

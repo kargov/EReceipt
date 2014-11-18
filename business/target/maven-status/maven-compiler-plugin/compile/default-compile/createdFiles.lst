@@ -1,0 +1,10 @@
+net/xdwonderer/business/domain/ReceiptEntry.class
+net/xdwonderer/business/parsers/ReceiptRawDataParserInterface.class
+net/xdwonderer/business/domain/Amount.class
+net/xdwonderer/business/domain/Name.class
+net/xdwonderer/business/parsers/ReceiptRawDataParser.class
+net/xdwonderer/business/ocr/OcrExtractorInterface.class
+net/xdwonderer/business/ocr/OcrExtractor.class
+net/xdwonderer/business/domain/ReceiptInterface.class
+net/xdwonderer/business/domain/Receipt.class
+net/xdwonderer/business/domain/Price.class

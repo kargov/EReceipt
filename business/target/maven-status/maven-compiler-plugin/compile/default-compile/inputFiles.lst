@@ -1,0 +1,10 @@
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/ocr/OcrExtractor.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/domain/Name.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/domain/Price.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/domain/Receipt.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/domain/ReceiptInterface.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/parsers/ReceiptRawDataParserInterface.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/parsers/ReceiptRawDataParser.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/ocr/OcrExtractorInterface.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/domain/Amount.java
+/home/ned/personal_workspace/xdwonderer/business/src/main/java/net/xdwonderer/business/domain/ReceiptEntry.java
