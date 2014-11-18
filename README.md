@@ -18,16 +18,16 @@ The idea behind the project is to have tree “separate” applications (Mobile 
 Technologies
 -------
 Back-end
-1.Java
-2.Spring 
-3.Spring MVC
-4.Hibernate
-5.MySql
-6.Maven
+* Java
+* Spring 
+* Spring MVC
+* Hibernate
+* MySql
+* Maven
 
 Front-end (Mobile)
-1.Ionic
-2.HTML5
-3.CSS3
-4.AngularJS
-5.JavaScript
+* Ionic
+* HTML5
+* CSS3
+* AngularJS
+* JavaScript
